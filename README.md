@@ -111,3 +111,5 @@
 ## 章节导航
 
 - [凌晨四点 海棠花未眠](./blog/1.goood-morning.md)
+
+- [躺着吃灰 不如物尽其用](./blog/2.let-it-go.md)
