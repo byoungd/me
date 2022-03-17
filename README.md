@@ -115,3 +115,5 @@
 - [躺着吃灰 不如物尽其用](./blog/2.let-it-go.md)
 
 - [我们为何害怕与陌生人交流](./blog/3.why-we-are-afraid-to-communicate-with-strangers.md)
+
+- [十年](./blog/4.10-years-later.md)
