@@ -26,3 +26,7 @@
 - [十年](./blog/4.10-years-later.md)
 
 - [我没有遇见你](./blog/5.i-miss-you.md)
+
+- [回首过往](./blog/6.look-back.md)
+
+- [为什么我不用在意别人的想法](./blog/7.be-yourself.md)
