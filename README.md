@@ -30,3 +30,7 @@
 - [回首过往](./blog/6.look-back.md)
 
 - [为什么我不用在意别人的想法](./blog/7.be-yourself.md)
+
+- [格子](./blog/8.grid.md)
+
+- [午夜前的十分钟](./blog/9.before-night.md)
