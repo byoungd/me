@@ -6,10 +6,11 @@
 
 我的 QQ 是 `397865076`，QQ 空间访客量一直都是全世界第一，欢迎来我的 [QQ 空间](https://user.qzone.qq.com/397865076) 逛逛。
 
-我现在正在重点打造两个和 AI 相关的产品：
+我现在正在重点打造这些项目：
 
 - [token.love](https://token.love)：AI 统一网关，面向模型调用、Token 质检、额度聚合与稳定接入，目标是让开发者和团队更简单、更可靠地使用主流 AI 模型。
 - [ku0.com](https://ku0.com)：AI 资源库，提供 `ChatGPT`、`Claude`、`Gemini` 等 AI 账户充值、成品号和号池资源，帮助用户降低 AI 使用成本与采购风险。
+- [英语学习教程](https://github.com/byoungd/up)：面向英语学习的开源教程与资料整理。
 
 ## 前言
 
